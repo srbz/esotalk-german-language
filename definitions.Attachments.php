@@ -4,6 +4,6 @@
 
 // English Definitions for the Answers plugin.
 
-$definitions["Attach a file"] = "Attach a file";
-$definitions["Drop files to upload"] = "Drop files to upload";
-$definitions["message.attachmentNotFound"] = "For some reason this attachment cannot be viewed. It may not exist, or you may not have permission to view it.";
+$definitions["Attach a file"] = "Datei anhängen";
+$definitions["Drop files to upload"] = "Dateien hier mit Drag & Drop hochladen";
+$definitions["message.attachmentNotFound"] = "Der Anhang kann leider nicht angezeigt werden. Der Anhang existiert eventuell nicht, oder du hast nicht genügend Rechte zu betrachten.";
